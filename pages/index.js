@@ -172,7 +172,7 @@ export default function Home() {
             />
             <color args={['black']} attach="background" />
           
-            <Stars radius={300} depth={100} count={5000} factor={10} />
+            <Stars radius={300} depth={100} count={5050} factor={10} />
 
             <Tube />
           </Canvas>
